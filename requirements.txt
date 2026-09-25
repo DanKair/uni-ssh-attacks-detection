@@ -1,0 +1,6 @@
+# uv
+# Core libraries
+pandas
+numpy
+matplotlib
+seaborn
